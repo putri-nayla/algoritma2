@@ -28,14 +28,14 @@ $BELAJAR = "seni budaya";
 $belajar = "sejarah";
 // =================== cara mencetak =======================
 echo 
-$nisn1,"<p>".
-$harga,"<p>".
-$nama_barang,"<p>".
-$NamaBarang1,"<p>".
+"<p>nama putri :$nama,".
+"<p> harga:$harga,".
+$nama,"<p>".
+$Nama_barang,"<p>".
 $harga,"<p>".
 $stok,"<p>".
 $nama,"<p>".
-$rosi46,"<p>".
+$namakepanjangan,"<p>".
 $nama_barang,"<p>".
 $namaPembeli,"<p>". 
 $nama_barang,"<p>".
