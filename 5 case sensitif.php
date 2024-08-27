@@ -7,7 +7,7 @@ const INI_KONSTANTA = 123 ;
 $ini_variable = 23;
 $inijugavarable  = 49 ;
 $inijugavariable ;
-$tahunlahir =2008;
+$tahunlahir =08;
 
 echo "<p> nama saya adalah $nama";
 echo "<p> nama guru saya adalah $NAMAGURUSAYA";
