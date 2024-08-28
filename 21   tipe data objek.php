@@ -1,3 +1,2 @@
-	<?php
-$user = new User"(putri nayla)";
-?>
+
+$user = new User();
