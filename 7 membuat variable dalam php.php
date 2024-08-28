@@ -31,7 +31,7 @@ echo
 "<p>nama putri :$nama,".
 "<p> harga:$harga,".
 $nama,"<p>".
-$Nama_barang,"<p>".
+$harga,"<p>".
 $harga,"<p>".
 $stok,"<p>".
 $nama,"<p>".
